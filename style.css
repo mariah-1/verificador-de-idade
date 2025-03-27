@@ -1,0 +1,36 @@
+
+body {
+    background: rgb(42, 72, 128); 
+    color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+    text-align: center;
+}
+
+h1 {
+    margin-top: -50px;
+}
+
+.bloco {
+    width: 100%;  
+    padding: 20px; 
+    background: white; 
+    color: black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+footer {
+    position: fixed;
+    color: black;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    background: white;
+}
